@@ -1,0 +1,6 @@
+Invoking command in '/home/gaurav/Desktop/ROS/ros2_ws/build/int_add': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/gaurav/Desktop/ROS/ros2_ws/src/int_add -DCMAKE_INSTALL_PREFIX=/home/gaurav/Desktop/ROS/ros2_ws/install/int_add
+Invoked command in '/home/gaurav/Desktop/ROS/ros2_ws/build/int_add' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/gaurav/Desktop/ROS/ros2_ws/src/int_add -DCMAKE_INSTALL_PREFIX=/home/gaurav/Desktop/ROS/ros2_ws/install/int_add
+Invoking command in '/home/gaurav/Desktop/ROS/ros2_ws/build/int_add': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gaurav/Desktop/ROS/ros2_ws/build/int_add -- -j8 -l8
+Invoked command in '/home/gaurav/Desktop/ROS/ros2_ws/build/int_add' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gaurav/Desktop/ROS/ros2_ws/build/int_add -- -j8 -l8
+Invoking command in '/home/gaurav/Desktop/ROS/ros2_ws/build/int_add': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gaurav/Desktop/ROS/ros2_ws/build/int_add
+Invoked command in '/home/gaurav/Desktop/ROS/ros2_ws/build/int_add' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gaurav/Desktop/ROS/ros2_ws/build/int_add

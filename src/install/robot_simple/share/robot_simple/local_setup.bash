@@ -1,0 +1,1 @@
+/home/gaurav/Desktop/ros_humble/src/build/robot_simple/ament_cmake_environment_hooks/local_setup.bash

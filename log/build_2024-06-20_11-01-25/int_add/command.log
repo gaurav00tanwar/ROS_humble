@@ -1,0 +1,2 @@
+Invoking command in '/home/gaurav/Desktop/ROS/ros2_ws/build/int_add': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/gaurav/Desktop/ROS/ros2_ws/build/int_add -- -j8 -l8
+Invoked command in '/home/gaurav/Desktop/ROS/ros2_ws/build/int_add' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/gaurav/Desktop/ROS/ros2_ws/build/int_add -- -j8 -l8

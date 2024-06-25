@@ -1,0 +1,6 @@
+Invoking command in '/home/gaurav/Desktop/ros_humble/src/build/simple_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/gaurav/Desktop/ros_humble/src/simple_pkg -DCMAKE_INSTALL_PREFIX=/home/gaurav/Desktop/ros_humble/src/install/simple_pkg
+Invoked command in '/home/gaurav/Desktop/ros_humble/src/build/simple_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/gaurav/Desktop/ros_humble/src/simple_pkg -DCMAKE_INSTALL_PREFIX=/home/gaurav/Desktop/ros_humble/src/install/simple_pkg
+Invoking command in '/home/gaurav/Desktop/ros_humble/src/build/simple_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gaurav/Desktop/ros_humble/src/build/simple_pkg -- -j8 -l8
+Invoked command in '/home/gaurav/Desktop/ros_humble/src/build/simple_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/gaurav/Desktop/ros_humble/src/build/simple_pkg -- -j8 -l8
+Invoking command in '/home/gaurav/Desktop/ros_humble/src/build/simple_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gaurav/Desktop/ros_humble/src/build/simple_pkg
+Invoked command in '/home/gaurav/Desktop/ros_humble/src/build/simple_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/gaurav/Desktop/ros_humble/src/build/simple_pkg
